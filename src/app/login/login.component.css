@@ -1,0 +1,13 @@
+.content{
+  min-width: 350px;
+  max-width: 600px;
+  padding: 40px;
+}
+
+.signin-form{
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+}
+
